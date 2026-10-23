@@ -1,1 +1,226 @@
-[{"id":"R001","category":"가습기 TOP3","date":"","products":[{"title":"케어팟 저온 가열식 가습기, X50V, 혼합색상","price":264000,"discount":8,"image":"https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/9d2c/16c8977a1162e0ce1b0ce9f8895611ab57c7fa859af8774b69b2acbfe61e.jpg","link":"https://link.coupang.com/a/h5yFWBYm1A"},{"title":"홈플래닛 초음파 가습기 4L, H1001D11","price":28900,"discount":41,"image":"https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/323618008542155-4fc1aca1-01d2-410e-a476-9abb9c4030b6.jpg","link":"https://link.coupang.com/a/h5yF9bnlLw"},{"title":"Rotima 대용량 초음파 가습기 4L 무소음 무드등 간편 통세척 사무실 탁상용 가정용 가습기, 화이트, J6","price":68900,"discount":65,"image":"https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/1324/f88329eecb87e91da64d4b7546ca76cf803bf1df0800046d27b67bb588f7.jpg","link":"https://link.coupang.com/a/h5yGlPIyA0"}]},{"id":"R002","category":"전기요 TOP3","date":"","products":[{"title":"[27년 프리미엄]일신한일의료기 전기매트 에어퀄팅 카본 전기요 워셔블 탄소매트 전자파없는 온열매트, 퀸사이즈 토퍼(150x200cm), 노블베이지","price":139000,"discount":36,"image":"https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2a0d/c742e7573e1b14ee66ef456b015dd8fde8257322e7eb6907ecee72375282.png","link":"https://link.coupang.com/a/h5yHpspgCy"},{"title":"루체온 탄소매트 전자파없는 프리미엄 전기장판 전기요 세탁가능 EMF, 2인용(퀸), 포그 그레이","price":98000,"discount":24,"image":"https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7b5d/212069317a87b9cd2c032ad6a2ccdc25a8afcc946c08bc03e8c21c289ddb.png","link":"https://link.coupang.com/a/h5yHBVVSuG"},{"title":"HanilMedical 탄소열선 고급 전기요 HL-D205(25), 북극곰, 라지 (135 x 180 cm)","price":30900,"discount":23,"image":"https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/b04f/c0ff207020feb1fb85e548ccd3960443fb40f5c090deb33ead2cad061518.jpg","link":"https://link.coupang.com/a/h5yHOEaghw"}]}]
+[
+ {
+  "id": "R001",
+  "category": "가습기 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "케어팟 저온 가열식 가습기, X50V, 혼합색상",
+    "price": 264000,
+    "discount": 8,
+    "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/9d2c/16c8977a1162e0ce1b0ce9f8895611ab57c7fa859af8774b69b2acbfe61e.jpg",
+    "link": "https://link.coupang.com/a/h5yFWBYm1A"
+   },
+   {
+    "title": "홈플래닛 초음파 가습기 4L, H1001D11",
+    "price": 28900,
+    "discount": 41,
+    "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/323618008542155-4fc1aca1-01d2-410e-a476-9abb9c4030b6.jpg",
+    "link": "https://link.coupang.com/a/h5yF9bnlLw"
+   },
+   {
+    "title": "Rotima 대용량 초음파 가습기 4L 무소음 무드등 간편 통세척 사무실 탁상용 가정용 가습기, 화이트, J6",
+    "price": 68900,
+    "discount": 65,
+    "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/1324/f88329eecb87e91da64d4b7546ca76cf803bf1df0800046d27b67bb588f7.jpg",
+    "link": "https://link.coupang.com/a/h5yGlPIyA0"
+   }
+  ]
+ },
+ {
+  "id": "R002",
+  "category": "전기요 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "[27년 프리미엄]일신한일의료기 전기매트 에어퀄팅 카본 전기요 워셔블 탄소매트 전자파없는 온열매트, 퀸사이즈 토퍼(150x200cm), 노블베이지",
+    "price": 139000,
+    "discount": 36,
+    "image": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2a0d/c742e7573e1b14ee66ef456b015dd8fde8257322e7eb6907ecee72375282.png",
+    "link": "https://link.coupang.com/a/h5yHpspgCy"
+   },
+   {
+    "title": "루체온 탄소매트 전자파없는 프리미엄 전기장판 전기요 세탁가능 EMF, 2인용(퀸), 포그 그레이",
+    "price": 98000,
+    "discount": 24,
+    "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7b5d/212069317a87b9cd2c032ad6a2ccdc25a8afcc946c08bc03e8c21c289ddb.png",
+    "link": "https://link.coupang.com/a/h5yHBVVSuG"
+   },
+   {
+    "title": "HanilMedical 탄소열선 고급 전기요 HL-D205(25), 북극곰, 라지 (135 x 180 cm)",
+    "price": 30900,
+    "discount": 23,
+    "image": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/b04f/c0ff207020feb1fb85e548ccd3960443fb40f5c090deb33ead2cad061518.jpg",
+    "link": "https://link.coupang.com/a/h5yHOEaghw"
+   }
+  ]
+ },
+ {
+  "id": "R003",
+  "category": "전기히터 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "코멕스 전기온풍기 3kw 이동식 리모컨 가정용 사무실 업소용 공업용",
+    "price": 168000,
+    "discount": 0,
+    "image": "https://t5a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/89ab/762a8cc326ad40b6645bdc261e4f472b286dadd94f6cc7427e01b984856d.jpg",
+    "link": "https://link.coupang.com/a/h5GmZnOBEG"
+   },
+   {
+    "title": "NEW 한경희 PTC 3초 발열 가정용 온풍기 절전형 전기 히터 날개없는 온풍기 난방기, 스노우 화이트, GF-BFH10T9",
+    "price": 119000,
+    "discount": 40,
+    "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/3d35/ef3c94a99e3125b9e9a13e9cf1e88bea20d468112dbc92cfad10a9a7da50.png",
+    "link": "https://link.coupang.com/a/h5Gm3mLCOO"
+   },
+   {
+    "title": "신일 카본 전기히터 전기난로 가정용 사무실 저소음 난방기, 히트타워 리모컨 O, 아이보리",
+    "price": 137000,
+    "discount": 5,
+    "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/9dfd/589c7576bcd26c9cb768aa968f37c388dac5ac1be19f356cec2a1cd76c46.jpg",
+    "link": "https://link.coupang.com/a/h5Gm7dLSk8"
+   }
+  ]
+ },
+ {
+  "id": "R004",
+  "category": "무선청소기 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "샤크 에보파워시스템 부스트+ 무선 스틱 청소기, 라이트 라벤더, LC751KRLV",
+    "price": 699000,
+    "discount": 0,
+    "image": "https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/10/01/14/9/1d68f384-b018-4599-a726-1e3cecd2198b.jpg",
+    "link": "https://link.coupang.com/a/h5GnkpPPc4"
+   },
+   {
+    "title": "샤크 에보파워 DX 2 in 1 무선 스틱 청소기, 라이트 모카, WV517KR",
+    "price": 312120,
+    "discount": 11,
+    "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/20441671111257-6b990d9e-96a5-4231-887b-ae4507c1f8b1.jpg",
+    "link": "https://link.coupang.com/a/h5GnoH7fDU"
+   },
+   {
+    "title": "최신형 비브르 무선 스틱 청소기 BLDC 흡입력 좋은 진공 청소기 + 다양한 구성품 V25000, 화이트, 화이트",
+    "price": 138000,
+    "discount": 47,
+    "image": "https://t1a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2f35/9dc36c51805633e6b7f30fd9be2d8a540de44cc1e442c900ff11dfc0d849.png",
+    "link": "https://link.coupang.com/a/h5Gnsoricm"
+   }
+  ]
+ },
+ {
+  "id": "R005",
+  "category": "에어프라이어 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "닌자 크리스피 올인원 유리 에어프라이어 3.8L + 1.4L 세트, FN100KRWH, 화이트",
+    "price": 197620,
+    "discount": 21,
+    "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/06/02/17/4/862bc5a2-a861-4763-b37d-f2fa0de54951.jpg",
+    "link": "https://link.coupang.com/a/h5GnFDCPu0"
+   },
+   {
+    "title": "보아르 에이블 듀얼 오븐 대용량 에어프라이어 23L, VAFR-002SI",
+    "price": 125900,
+    "discount": 9,
+    "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2374560391938312-44bbad9b-0f38-4a5b-892a-fee2918ff73f.jpg",
+    "link": "https://link.coupang.com/a/h5GnJsNfP2"
+   },
+   {
+    "title": "OYEAH 저소음 에어프라이어 5.0L 시각화 대용량, 블랙, 블랙",
+    "price": 49800,
+    "discount": 0,
+    "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ec5f/0842b1978f8d35df1d449cd1cd20a7488687c7037056f40c7c17b1255b74.jpg",
+    "link": "https://link.coupang.com/a/h5GnM80KpU"
+   }
+  ]
+ },
+ {
+  "id": "R006",
+  "category": "극세사이불 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "편리한공간 두꺼운 극세사 우유 양털 겨울이불",
+    "price": 52800,
+    "discount": 25,
+    "image": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/54be/a4f856480b2227665b9649c50e3604ce827675d7c1baf28354cdf5893196.png",
+    "link": "https://link.coupang.com/a/h5Gn0hpA1k"
+   },
+   {
+    "title": "COORA 프리미엄 극세사 이불 세트 두꺼운 따뜻한 겨울이불 세트",
+    "price": 35900,
+    "discount": 48,
+    "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/3d29/120f49724e7d583f39e7917689e1b59d1b4ab3b6e035026178da9d48a1b7.jpg",
+    "link": "https://link.coupang.com/a/h5Gn3WMic0"
+   },
+   {
+    "title": "코멧 홈 양면 극세사 솔리드 차렵이불",
+    "price": 19990,
+    "discount": 58,
+    "image": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/3df9/874620176a8999be37066049feb4949ff9c6ec09671b313896a2df55a864.jpg",
+    "link": "https://link.coupang.com/a/h5Gn7E5wFU"
+   }
+  ]
+ },
+ {
+  "id": "R007",
+  "category": "보조배터리 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "보바 그립 22.5W 고속충전 보조배터리 20000mAh, 옐로우, VA-123",
+    "price": 45400,
+    "discount": 68,
+    "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/242570467180251-9f9341d8-aad3-46b3-b6cb-ccce1e4d0b6e.jpg",
+    "link": "https://link.coupang.com/a/h5GokpxFXU"
+   },
+   {
+    "title": "스피디 도킹 보조배터리, SPE-B2PA5GPQCP(C타입), 화이트",
+    "price": 6900,
+    "discount": 70,
+    "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/bb94/118f825384e10960656d150cd95605a45a7997a69a3ffcd836bff4e403e6.jpg",
+    "link": "https://link.coupang.com/a/h5Gon9rXeC"
+   },
+   {
+    "title": "팬톤 PD 22.5W 초고속충전 대용량 케이블 일체형 미러 보조배터리 10000mAh PGB-20, Ocean Breeze",
+    "price": 18900,
+    "discount": 24,
+    "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/a1b0/57d9ec7e0337e5bae389aa591edf5a09c8e556b738cefc533de6331a960e.jpg",
+    "link": "https://link.coupang.com/a/h5GorSrUFU"
+   }
+  ]
+ },
+ {
+  "id": "R008",
+  "category": "핫팩 TOP3",
+  "date": "",
+  "products": [
+   {
+    "title": "손일병 군용 핫팩 180g, 50개",
+    "price": 35000,
+    "discount": 30,
+    "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/8bd8/2590f1da67a2441abf0e9ecd4a044c28690f81af2345d2517cc7dcacd718.jpg",
+    "link": "https://link.coupang.com/a/h5GoE1HyFw"
+   },
+   {
+    "title": "슈퍼곰도리 발열작열 초대용량 포켓용 핫팩 160g+, 50개",
+    "price": 33120,
+    "discount": 21,
+    "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7f2a/a0c2d8c29982a7195ec704258023ba5f7fbb2eec57f5a4da3323050e23b6.png",
+    "link": "https://link.coupang.com/a/h5GoIMa2cm"
+   },
+   {
+    "title": "충성 포켓용 핫팩 대형 160g, 30개",
+    "price": 16160,
+    "discount": 45,
+    "image": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/141827873471528-6123d2f2-374a-48bb-a4a7-403849a0e447.jpg",
+    "link": "https://link.coupang.com/a/h5GoMvPylU"
+   }
+  ]
+ }
+]
