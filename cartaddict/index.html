@@ -38,7 +38,7 @@ function draw(){
   const rows=DATA.filter(b=>!q||String(+b.id.replace(/\D/g,''))===q.replace(/^0+/,'')||b.id.includes(q)||b.category.includes(q)||b.products.some(p=>p.title.includes(q)));
   if(!rows.length){box.innerHTML=(DATA.length?'<div class="empty">No match</div>':'<div class="empty">First videos are coming soon.</div>');return}
   box.innerHTML=rows.map(b=>`<section class="bundle"><div class="bh"><span class="no">#${+b.id.replace(/\D/g,'')}</span><span class="bt">${b.category}</span><span class="date">${b.date||''}</span></div>`+
-    b.products.map((p,i)=>`<a class="item" href="${p.link}" target="_blank" rel="sponsored noopener"><img src="${p.image}" alt="" loading="lazy"><div class="it"><div class="nm">${p.title}</div><div class="pr">${won(p.price)}${p.discount?` · ${p.discount}% off`:''}</div></div><span class="go">View</span></a>`).join('')+`</section>`).join('');
+    b.products.map((p,i)=>`<a class="item" href="${p.link}" target="_blank" rel="sponsored noopener">${p.image?`<img src="${p.image}" alt="" loading="lazy">`:`<span style="width:72px;height:72px;flex:none;border-radius:10px;background:var(--acc);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:22px">#${i+1}</span>`}<div class="it"><div class="nm">${p.title}</div><div class="pr">${p.price?won(p.price):'Check current price on Amazon'}${p.discount?` · ${p.discount}% off`:''}</div></div><span class="go">View</span></a>`).join('')+`</section>`).join('');
 }
 fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{DATA=d.sort((a,b)=>b.id.localeCompare(a.id));draw()}).catch(()=>{document.getElementById('list').innerHTML='<div class="empty">First videos are coming soon.</div>'});
 document.getElementById('q').addEventListener('input',draw);
